@@ -1,5 +1,12 @@
 jure: 
-  first_name: "Jur"
+  first_name: "Jure"
+  last_name: "Stabuc"
+  email: "jure.stabuc@gmail.com"
+  profile_name: "juresta"
+
+anze:
+  first_name: "Anze"
   last_name: "Stabu"
-  email: "jure.stabu@gmail.com"
-  profile_name: "jurstabuc"
+  email: "anze.stabuc@gmail.com"
+  profile_name: "anzesta"
+

@@ -7,3 +7,7 @@ one:
 two:
   content: MyText
   user: jure
+
+three: 
+  content: "Hi I'm Anze"
+  user: anze
