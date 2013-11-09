@@ -7,8 +7,8 @@
 		<fieldset>
 				<legend>Sign In</legend>
 		</fieldset>			  
-		  <%= f.input :email %>
-		  <%= f.input :password %>
+		  <%= f.input :email, :input_html => { :style => "width: 70%" } %>
+		  <%= f.input :password, :input_html => { :style => "width: 70%" }  %>
 
 	  <% if devise_mapping.rememberable? -%>
 	    <div><%= f.check_box :remember_me, as: :boolean %> </div>
