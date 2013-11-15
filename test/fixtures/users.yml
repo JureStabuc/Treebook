@@ -10,3 +10,10 @@ anze:
   email: "anze.stabuc@gmail.com"
   profile_name: "anzesta"
 
+mike:
+  first_name: "Mike"
+  last_name: "The Frog"
+  email: "mike@gmail.com"
+  profile_name: "mikethefrog"
+
+
